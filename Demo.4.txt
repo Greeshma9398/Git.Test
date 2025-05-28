@@ -1,1 +1,2 @@
-I am very good at communicator
+<<<<<<< HEAD
+I am very good at communication and dev
